@@ -1,5 +1,6 @@
 ## Hi there 👋
-I'm Gibran Khalilullah
+I'm Gibran Khalilullah,
+
 an Informatics student with a software engineering backbone. I don't just write code — I compose systems. End-to-end builder. Aspiring code artist.
 
 ## 🌐 Socials:
