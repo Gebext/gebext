@@ -2,7 +2,7 @@
 
 # Hi there, I'm Gibran Khalilullah
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+%F0%9F%8C%B8;JavaScript,+Go,+Java,+Python+%F0%9F%8C%B8&center=true&size=20)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=End+To+End+Developer;JavaScript,+Go,+Java,+Python+%F0%9F%8C%B8&center=true&size=20)](https://git.io/typing-svg)
 
 Currently learning software engineering, building scalable systems, and exploring cloud-native development.
 
